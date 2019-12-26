@@ -1,0 +1,4 @@
+D:\Projekte\0134 - Custom .NET Library\Windows\TaskbarProgressBar\TaskbarProgressBar\bin\Release\TaskbarProgressBar.dll
+D:\Projekte\0134 - Custom .NET Library\Windows\TaskbarProgressBar\TaskbarProgressBar\bin\Release\TaskbarProgressBar.pdb
+D:\Projekte\0134 - Custom .NET Library\Windows\TaskbarProgressBar\TaskbarProgressBar\obj\Release\TaskbarProgressBar.dll
+D:\Projekte\0134 - Custom .NET Library\Windows\TaskbarProgressBar\TaskbarProgressBar\obj\Release\TaskbarProgressBar.pdb

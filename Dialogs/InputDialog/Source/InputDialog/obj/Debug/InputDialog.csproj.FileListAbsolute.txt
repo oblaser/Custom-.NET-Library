@@ -1,0 +1,5 @@
+D:\0134 - Custom .NET Library\Dialogs\InputDialog\InputDialog\bin\Debug\InputDialog.dll
+D:\0134 - Custom .NET Library\Dialogs\InputDialog\InputDialog\bin\Debug\InputDialog.pdb
+D:\0134 - Custom .NET Library\Dialogs\InputDialog\InputDialog\obj\Debug\InputDialog.csprojResolveAssemblyReference.cache
+D:\0134 - Custom .NET Library\Dialogs\InputDialog\InputDialog\obj\Debug\InputDialog.dll
+D:\0134 - Custom .NET Library\Dialogs\InputDialog\InputDialog\obj\Debug\InputDialog.pdb

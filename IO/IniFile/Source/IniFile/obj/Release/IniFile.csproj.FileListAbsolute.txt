@@ -1,0 +1,6 @@
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\bin\Release\IniFile.dll
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Release\IniFile.csprojAssemblyReference.cache
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Release\IniFile.dll
+D:\Projekte\0134 - Custom .NET Library\IO\IniFile\IniFile\bin\Release\IniFile.dll
+D:\Projekte\0134 - Custom .NET Library\IO\IniFile\IniFile\obj\Release\IniFile.csprojAssemblyReference.cache
+D:\Projekte\0134 - Custom .NET Library\IO\IniFile\IniFile\obj\Release\IniFile.dll

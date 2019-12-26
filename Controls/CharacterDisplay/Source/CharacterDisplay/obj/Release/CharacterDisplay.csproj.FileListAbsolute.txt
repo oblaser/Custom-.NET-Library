@@ -1,0 +1,5 @@
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\CharacterDisplay\bin\Release\CharacterDisplay.dll
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\CharacterDisplay\bin\Release\CharacterDisplay.pdb
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\CharacterDisplay\obj\Release\CharacterDisplay.csprojAssemblyReference.cache
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\CharacterDisplay\obj\Release\CharacterDisplay.dll
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\CharacterDisplay\obj\Release\CharacterDisplay.pdb

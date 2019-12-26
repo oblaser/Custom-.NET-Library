@@ -1,0 +1,11 @@
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\bin\Debug\Demo.exe.config
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\bin\Debug\Demo.exe
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\bin\Debug\Demo.pdb
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\bin\Debug\CharacterDisplay.dll
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\obj\Debug\Demo.Form1.resources
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\obj\Debug\Demo.exe
+D:\Projekte\0134 - Custom .NET Library\Controls\CharacterDisplay\Demo\obj\Debug\Demo.pdb

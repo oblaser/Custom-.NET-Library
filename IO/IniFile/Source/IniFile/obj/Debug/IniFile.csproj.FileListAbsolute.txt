@@ -1,0 +1,12 @@
+D:\tmp_work\0134 - Custom .NET Library\System\IO\IniFile\IniFile\bin\Debug\IniFile.dll
+D:\tmp_work\0134 - Custom .NET Library\System\IO\IniFile\IniFile\bin\Debug\IniFile.pdb
+D:\tmp_work\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.csprojAssemblyReference.cache
+D:\tmp_work\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.csproj.CoreCompileInputs.cache
+D:\tmp_work\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.dll
+D:\tmp_work\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.pdb
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\bin\Debug\IniFile.dll
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\bin\Debug\IniFile.pdb
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.csprojAssemblyReference.cache
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.csproj.CoreCompileInputs.cache
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.dll
+D:\Projekte\0134 - Custom .NET Library\System\IO\IniFile\IniFile\obj\Debug\IniFile.pdb

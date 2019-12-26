@@ -1,0 +1,5 @@
+D:\0134 - Custom .NET Library\Controls\CustomProgressBar\CustomProgressBar\obj\Debug\CustomProgressBar.csprojResolveAssemblyReference.cache
+D:\0134 - Custom .NET Library\Controls\CustomProgressBar\CustomProgressBar\bin\Debug\CustomProgressBar.dll
+D:\0134 - Custom .NET Library\Controls\CustomProgressBar\CustomProgressBar\bin\Debug\CustomProgressBar.pdb
+D:\0134 - Custom .NET Library\Controls\CustomProgressBar\CustomProgressBar\obj\Debug\CustomProgressBar.dll
+D:\0134 - Custom .NET Library\Controls\CustomProgressBar\CustomProgressBar\obj\Debug\CustomProgressBar.pdb

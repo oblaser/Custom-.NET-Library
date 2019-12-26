@@ -1,0 +1,5 @@
+D:\0134 - Custom .NET Library\System\TaskbarProgressBar\TaskbarProgressBar\bin\Debug\TaskbarProgressBar.dll
+D:\0134 - Custom .NET Library\System\TaskbarProgressBar\TaskbarProgressBar\bin\Debug\TaskbarProgressBar.pdb
+D:\0134 - Custom .NET Library\System\TaskbarProgressBar\TaskbarProgressBar\obj\Debug\TaskbarProgressBar.csprojResolveAssemblyReference.cache
+D:\0134 - Custom .NET Library\System\TaskbarProgressBar\TaskbarProgressBar\obj\Debug\TaskbarProgressBar.dll
+D:\0134 - Custom .NET Library\System\TaskbarProgressBar\TaskbarProgressBar\obj\Debug\TaskbarProgressBar.pdb
