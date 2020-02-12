@@ -53,3 +53,9 @@ Namespace: `CustomNETlib.Windows.TaskbarProgressBar`
 2. Select *Choose Items…*
 3. Browse to the DLL
 4. Check the controls, which should be displayed in the Toolbox
+
+---
+
+## License
+
+The whole project is licensed under the MIT license.
